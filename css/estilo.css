@@ -76,7 +76,7 @@
 .txt {
     background-color: #ffffff;
     margin-top: 30px;
-
+    font-weight: 600;
 }
 
 .tresp {
@@ -260,19 +260,19 @@ p.darkmode{
 }  */
 @media (max-width: 500px) {
     .imagen1 {
-        width: 332px;
+        width: 370px;
         margin-top: 10px;
         margin-left: 18px;
 
     }
 
     .imagen2 {
-        width: 332px;
+        width: 370px;
         margin-top: 20px;
     }
 
     .imagen5 {
-        width: 320px;
+        width: 360px;
         margin-top: 80px;
     }
 
