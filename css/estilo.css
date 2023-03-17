@@ -85,6 +85,7 @@
     font-weight: 100;
     text-align: center;
     margin-top: 2rem;
+    font-weight: 600;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -159,7 +160,7 @@
 
 }
 
-.btn:hover{
+.btn:hover {
     height: 100px !important;
     width: 500px !important;
 }
@@ -239,6 +240,7 @@
     width: 70px;
     height: 70px;
 }
+
 .imagen6 {
     width: 300px;
     margin-top: 80px;
@@ -273,11 +275,10 @@ p.darkmode{
         width: 320px;
         margin-top: 80px;
     }
-    
-    .btn:hover{
+
+    .btn:hover {
         height: 100px !important;
         width: 350px !important;
     }
-    
-}
 
+}
