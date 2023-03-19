@@ -157,8 +157,7 @@
     color: rgb(255, 255, 255) !important;
     height: 100px !important;
     width: 360px !important;
-   
-
+    text-shadow: 1px 1px #000000;
 }
 
 .btn:hover {
@@ -241,6 +240,7 @@
     border-radius: 700px;
     width: 70px;
     height: 70px;
+    
 }
 
 .imagen6 {
