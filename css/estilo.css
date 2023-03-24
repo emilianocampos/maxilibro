@@ -264,6 +264,18 @@
 p.darkmode{
     color: white;
 }  */
+
+#garante{
+    width: 200px;
+}
+
+.imagen50{
+    width: 321px;
+   
+}
+.locurami{
+    margin-top: 50px;
+}
 @media (max-width: 500px) {
     .imagen1 {
         width: 370px;
