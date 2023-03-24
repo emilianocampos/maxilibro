@@ -16,6 +16,23 @@
 
     border-radius: 2px;
     text-align: center;
+    animation-name: emi;
+    animation-duration: 3s;
+
+}
+
+@keyframes emi {
+    0% {
+        width: 200px;
+        border-radius: 250%;
+    }
+    
+    
+   50% {
+        border-radius: 25%;
+    }
+    
+
 }
 
 .text-nv {
@@ -153,7 +170,7 @@
 .btn {
     text-shadow: 2px 2px #000000 !important;
     font-size: 1.8rem !important;
-    background-color:#3165f4 !important;
+    background-color: #3165f4 !important;
     border-color: black !important;
     color: rgb(255, 255, 255) !important;
     height: 100px !important;
@@ -240,7 +257,7 @@
     border-radius: 700px;
     width: 70px;
     height: 70px;
-    
+
 }
 
 .imagen6 {
@@ -248,34 +265,27 @@
     margin-top: 80px;
     border-radius: 700px;
 }
-#botonloco{
-  margin-top: 20px;  
-  background-color: #3165f4;
-   
-}
-/* body.darkmode {
-    background-color: black;
-    
-}
-.txt.darkmode{
-    background-color: rgb(0, 0, 0) ;
-    
-}
-p.darkmode{
-    color: white;
-}  */
 
-#garante{
+#botonloco {
+    margin-top: 20px;
+    background-color: #3165f4;
+
+}
+
+
+#garante {
     width: 200px;
 }
 
-.imagen50{
-    width: 300px;
-   
+.imagen50 {
+    width: 500px;
+
 }
-.locurami{
+
+.locurami {
     margin-top: 50px;
 }
+
 @media (max-width: 500px) {
     .imagen1 {
         width: 370px;
@@ -293,7 +303,10 @@ p.darkmode{
         width: 360px;
         margin-top: 80px;
     }
-
+    .imagen50 {
+        width: 280px;
+    
+    }
     .btn:hover {
         height: 100px !important;
         width: 380px !important;
