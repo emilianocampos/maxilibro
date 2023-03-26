@@ -274,7 +274,7 @@
 
 
 #garante {
-    width: 200px;
+    width: 500px;
 }
 
 .imagen50 {
@@ -311,7 +311,10 @@
         height: 100px !important;
         width: 380px !important;
     }
-
+    #garante {
+        width: 350px;
+    }
+    
 }
 .tick{
     margin-right: 20px;
