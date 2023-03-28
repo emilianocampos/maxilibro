@@ -183,10 +183,22 @@
 .btn:hover {
     /* height: 100px !important;
     width: 500px !important; */
-    transform: scale(1);
     transform: skew(10deg );
+    
 }
-
+#btn1{
+    height: 100px !important;
+    width: 300px !important;
+}
+#mocak{
+   margin-bottom: 30px !important;
+}
+#moti{
+    margin-top: 2px !important;
+}
+#uwu{
+    background-color: rgba(255, 255, 0, 0.938);
+}
 .unapp {
     color: rgb(0, 0, 0);
     font-size: 1.9rem;
@@ -340,9 +352,15 @@
 
     }
 }
+ #jiji{
+    font-size: 2rem !important;
+ }
 
+ #jojo{
+    font-size: 3rem !important;
+ }
 .tick {
-    margin-right: 15px;
+    margin-right: 2px;
 }
 
 body::-webkit-scrollbar {
