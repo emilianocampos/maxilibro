@@ -189,6 +189,7 @@
 #btn1{
     height: 100px !important;
     width: 300px !important;
+    /* margin-bottom: -10px; */
 }
 #mocak{
    margin-bottom: 30px !important;
@@ -218,6 +219,7 @@ margin-bottom: 2px;
 #llegn{
     width: 310px;
 }
+
 .unapp {
     color: rgb(0, 0, 0);
     font-size: 1.9rem;
@@ -297,8 +299,9 @@ margin-bottom: 2px;
 
 .imagen6 {
     width: 300px;
-    margin-top: 80px;
+    margin-top: 1px;
     border-radius: 700px;
+    margin-bottom: 25px;
 }
 
 #botonloco {
@@ -306,7 +309,9 @@ margin-bottom: 2px;
     background-color: #3165f4;
 
 }
-
+#meac{
+    margin-top: 10px ;
+}
 
 #garante {
     width: 500px;
@@ -373,6 +378,7 @@ margin-bottom: 2px;
 }
  #jiji{
     font-size: 2rem !important;
+    background-color: rgba(255, 255, 0, 0.938);
  }
 
  #jojo{
@@ -381,7 +387,9 @@ margin-bottom: 2px;
 .tick {
     margin-right: 2px;
 }
-
+#juju{
+    margin-bottom: 25px;
+}
 body::-webkit-scrollbar {
     width: 13px;
     /* width of the entire scrollbar */
@@ -392,7 +400,9 @@ body::-webkit-scrollbar-track {
     border: 1px rgb(0, 0, 0);
     /* color of the tracking area */
 }
-
+#consue{
+    margin-top: -30px;
+}
 body::-webkit-scrollbar-thumb {
     background-color: rgb(255, 255, 255);
     /* color of the scroll thumb */
@@ -400,4 +410,11 @@ body::-webkit-scrollbar-thumb {
     /* roundness of the scroll thumb */
     border: 3px solid rgb(0, 0, 0);
     /* creates padding around scroll thumb */
+}
+#enella{
+    font-size: 2.5rem;
+}
+#entre{
+   margin-bottom: 4px !important;
+   margin-top: 15px !important;
 }
