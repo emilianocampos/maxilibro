@@ -371,8 +371,8 @@ margin-bottom: 2px;
     }
 
     .video {
-        width: 380px;
-        height: 600px;
+        width: 330px;
+        /* height: 600px; */
 
     }
 }
