@@ -338,7 +338,9 @@ margin-bottom: 2px;
     border-radius: 20px;
 
 }
-
+.iconosde{
+    width: 100px;
+}
 @media (max-width: 500px) {
     .imagen1 {
         width: 370px;
@@ -375,6 +377,9 @@ margin-bottom: 2px;
         width: 330px;
         /* height: 600px; */
 
+    }
+    .iconosde{
+        width: 80px;
     }
 }
  #jiji{
